@@ -1,11 +1,11 @@
 package my.epic.instantdeath;
 
-import org.bukkit.ChatColor;
-import org.bukkit.command.Command;
-import org.bukkit.command.CommandSender;
-import org.bukkit.entity.Player;
-import org.bukkit.plugin.java.JavaPlugin;
-import org.bstats.bukkit.Metrics;
+import org.powernukkitx.ChatColor;
+import org.powernukkitx.command.Command;
+import org.powernukkitx.command.CommandSender;
+import org.powernukkitx.entity.Player;
+import org.powernukkitx.plugin.java.JavaPlugin;
+import org.bstats.powernukkitx.Metrics
 
 import java.util.HashMap;
 import java.util.Map;
